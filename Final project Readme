@@ -1,0 +1,6 @@
+Instructions for how to run the code:
+
+the files needed to run this file are M V plotGraphs baseplot and beamGui.
+The main function to run the whole thing is beamGui. This calls on baseplot 
+to run the function that makes the beam, and it calls V and M to calculate the
+two arrays for them and then plots them underneath the original beam plot. 
